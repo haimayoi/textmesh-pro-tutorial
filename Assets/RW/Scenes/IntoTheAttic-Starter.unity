@@ -3507,8 +3507,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: It stopped.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 5df47699bedf5fd4f8ef61da6360af80, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7302,8 +7302,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: I slowly move one particularly large box.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 568c72d52b6432045991a62cd6d3be8b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7767,7 +7767,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &776524249
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13605,8 +13605,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: A golden skull materializing before my eyes
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 30a3e6086479c194cbfb8dab1e69462f, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -16135,7 +16135,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1921710136
 RectTransform:
   m_ObjectHideFlags: 0
