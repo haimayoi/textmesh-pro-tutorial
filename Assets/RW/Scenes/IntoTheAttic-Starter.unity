@@ -2730,8 +2730,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: moving dusty boxes out of the way.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: b01e95ed7ee8e4b4d9a5756437886ef8, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4838,7 +4838,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "I climb \nup up up up\ninto the attic."
+  m_text: "I climb \n<voffset=1.5em>up <voffset=3em>up <voffset=4.5em>up <voffset=6em>up</voffset>\ninto
+    the attic."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
   m_sharedMaterial: {fileID: 3858221336845940023, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
@@ -5887,8 +5888,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I stumble around to the kitchen drawer and grab the <sprite index=0>flashlight
-    managing to not cut myself in the process.
+  m_text: I stumble around to the kitchen drawer and grab the <color=#FFEB04>flashlight<sprite
+    index=0 color=#FFEB04></color> managing to not cut myself in the process.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
   m_sharedMaterial: {fileID: 3858221336845940023, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
@@ -7766,7 +7767,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &776524249
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8655,10 +8656,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Okay, I need to see what that is right now.
+  m_text: '<uppercase>Okay, I need to see what that is right now.</uppercase>
 
 
-    The glass can wait.'
+    <smallcaps>The
+    glass can wait.</smallcaps>'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
   m_sharedMaterial: {fileID: 3858221336845940023, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
@@ -11282,7 +11284,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "What? Is someone there?\n\nNo. That\u2019s coming from above."
+  m_text: "<s>What? Is someone there?</s>\n\n<u>No. That\u2019s coming from above.</u>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
   m_sharedMaterial: {fileID: 3858221336845940023, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
@@ -15014,7 +15016,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1814625354
 RectTransform:
   m_ObjectHideFlags: 0
@@ -15057,8 +15059,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Yep, definitely coming from up here.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 7245685529674381288, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -16133,7 +16135,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1921710136
 RectTransform:
   m_ObjectHideFlags: 0
@@ -16278,8 +16280,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: I start crawling towards the sound,
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7ae7c0d609f2e6147b8d2efdedaa770b, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: a058f6894c94e9549b9f2fe2ac1caec1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -16371,7 +16373,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1942800463
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17472,11 +17474,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Knock
+  m_text: '<align=left>Knock
 
-    Knock
+    <align=center>Knock
 
-    Knock'
+    <align=right>Knock'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
   m_sharedMaterial: {fileID: 3858221336845940023, guid: 9a67b93d827de7248a52005584c3fe49, type: 2}
